@@ -68,7 +68,7 @@ body {
 
 .botao.ativo {
   background-color: var(--botao-ativo);
-  border-bottom: 6px solid var(--comply);
+  border-bottom: 3px solid var(--comply);
   border-left: 3px solid var(--comply);
   border-right: 3px solid var(--comply);
   border-top: 3px solid var(--comply);
@@ -79,7 +79,6 @@ body {
   background-color: var(--texto-fundo);
   padding: 25px;
   border-radius: 0 0 1.5px 1.5px;
-  outline: 3px solid var(--)
 }
 
 .aba-conteudo.ativo{
